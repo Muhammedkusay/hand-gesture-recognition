@@ -38,4 +38,4 @@ The main objective of this project is to enable interaction with a computer thro
 
 ## Author
 
-Developed by [Your Name]
+Developed by Muhammed Kusay
